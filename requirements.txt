@@ -1,4 +1,5 @@
 pandas
+#checking file synchronization on elasticbeanstalk
 numpy
 seaborn
 matplotlib
